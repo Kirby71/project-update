@@ -1,0 +1,75 @@
+h1{
+    text-align: center;
+   
+}
+
+.Header{
+    background-image: url(forest.jpeg);
+}
+
+#head{
+    margin-top: 50px;
+    color: lightgrey;
+    font-size: xxx-large;
+    height: 300px;
+    width: auto;
+}
+
+h4, h2{
+    text-align: center;
+}
+
+
+p{
+    text-align: center;
+    font-size: 125%;
+}
+
+ul{
+    text-align: center;
+}
+
+
+img{
+    border-radius: 20px;
+    margin: 10px;
+}
+
+.home{
+    width: 350px;
+    height: auto;
+}
+
+#right{
+    float: right;
+}
+
+#left{
+    float: left;
+}
+
+.centered{
+    width: 1000px;
+    height: fit-content;
+    margin: 0 auto;
+    overflow:visible;
+}
+
+.place{
+    width: 400px;
+    height: auto;
+    float: left;
+}
+
+.kinds{
+    width: 400px;
+    height: auto; 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.home{
+    font-size: larger;
+}
